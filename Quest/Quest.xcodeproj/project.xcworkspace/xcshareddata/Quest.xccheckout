@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23510784-CEFF-40BD-A6C6-037FBC719B72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5A50D30-CC89-49BA-B321-DE441221DAF2</key>
+		<string>https://github.com/gatropino/MyriadChallenge.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quest/Quest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5A50D30-CC89-49BA-B321-DE441221DAF2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gatropino/MyriadChallenge.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5A50D30-CC89-49BA-B321-DE441221DAF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5A50D30-CC89-49BA-B321-DE441221DAF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Myriad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
